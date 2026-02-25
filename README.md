@@ -1,5 +1,5 @@
 # 💫 About Me:
- 1) I am currently working on soft skills, building logic..etc<br>2) Currently Seeking an internship opportunity in software engineering to apply academic knowledge in real-world projects and gain hands-on industry experience.<br>3) Proficient in C programming, CMD, and PowerShell with experience in debugging and workflow optimization.<br>
+1)I am currently working on soft skills, building logic..etc<br>2) Currently Seeking an internship opportunity in software engineering to apply academic knowledge in real-world projects and gain hands-on industry experience.<br>3) Proficient in C programming, CMD, and PowerShell with experience in debugging and workflow optimization.<br>
 
 
 ## 🌐 Socials:
